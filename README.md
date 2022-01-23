@@ -1,1 +1,1 @@
-# federated-module-angular
+# federated-module-angular-shell
